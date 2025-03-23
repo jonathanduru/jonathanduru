@@ -1,18 +1,35 @@
-- 🔥 Hi, I’m @jonathanduru  
-  I am a Project Support Specialist passionate about database administration, automation, and D365 architecture.
+# Hi, I'm Jonathan!  
+  IT Specialist • Systems Analyst • Power Platform Developer  
 
-- 👀 I’m interested in database administration, automation, and D365 architecture.
+---
 
-- 🌱 I’m currently learning SQL, Power Automate, and studying for the Microsoft Certified: Azure Database Administrator Associate exam.
+## Current Projects
 
-- 💞️ I’m looking to collaborate on ...  
-  
+- **🔁 Dataverse to Azure SQL Backup Script**  
+  Automates data backup from Microsoft Dataverse to Azure SQL using Python, MSAL, and the Web API.  
+  → **[🔗 View Project](https://github.com/jonathanduru/dataverse-backup-script)**
 
-- 📫 How to reach me ...  
-  
+---
 
+## Skills & Tools
 
-<!---
-jonathanduru/jonathanduru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages:** Python, SQL, JavaScript  
+- **Cloud & Platforms:** Microsoft Azure, Power Platform, Dataverse  
+- **Automation:** Power Automate, Logic Apps  
+- **Visualization:** Power BI, Excel  
+- **Other Tools:** Git, VS Code, SSMS
+
+---
+
+## Certifications *(In Progress or Completed)*
+
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Microsoft Certified: Power Platform Fundamentals (PL-900)
+- CompTIA Security+
+
+---
+
+## 📬 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/jonathan-duru-282b0a357)
+- [GitHub](https://github.com/jonathanduru)
