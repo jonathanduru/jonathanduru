@@ -5,9 +5,17 @@
 
 ## Current Projects
 
-- **🔁 Dataverse to Azure SQL Backup Script**  
-  Automates data backup from Microsoft Dataverse to Azure SQL using Python, MSAL, and the Web API.  
-  → **[🔗 View Project](https://github.com/jonathanduru/dataverse-backup-script)**
+- **Enterprise IT Helpdesk Suite**  
+  Full-stack ticketing + asset platform using Power Apps, Dataverse, and Power BI  
+  ├─ Canvas App (Employee Portal)   
+  ├─ Model-Driven App (Technician Panel) 🚧 In Progress  
+  ├─ Power Automate (SLA, notifications) 🚧 In Progress  
+  ├─ Power BI Reports (Tickets, Assets) 🚧 In Progress  
+  └─ [Dataverse to Azure SQL Backup Script](https://github.com/jonathanduru/dataverse-backup-script)
+
+- **Dataverse to Azure SQL Backup Script**  
+  Automates Dataverse backups using Python, MSAL, and Web API  
+  → **[View Project](https://github.com/jonathanduru/dataverse-backup-script)**
 
 ---
 
