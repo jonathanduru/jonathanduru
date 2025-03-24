@@ -19,7 +19,7 @@
 
 - **Ticket Webhook Logger**  
   A lightweight Python webhook receiver for logging ticket resolution data to a PostgreSQL database  
-  → **[View Project](https://github.com/jonathanduru/dataverse-backup-script)**
+  → **[View Project](https://github.com/jonathanduru/TicketWebhookLogger)**
 
 ---
 
