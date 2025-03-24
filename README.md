@@ -17,6 +17,10 @@
   Automates Dataverse backups using Python, MSAL, and Web API  
   → **[View Project](https://github.com/jonathanduru/dataverse-backup-script)**
 
+- **Ticket Webhook Logger**  
+  A lightweight Python webhook receiver for logging ticket resolution data to a PostgreSQL database  
+  → **[View Project](https://github.com/jonathanduru/dataverse-backup-script)**
+
 ---
 
 ## Skills & Tools
