@@ -9,7 +9,7 @@
   Full-stack ticketing + asset platform using Power Apps, Dataverse, and Power BI  
   ├─ Canvas App (Employee Portal)   
   ├─ [Model-Driven App (Technician Panel)](https://github.com/jonathanduru/IT-Helpdesk-Suite/blob/main/docs/apps.md)  
-  ├─ [Power Automate (SLA, notifications)](https://github.com/jonathanduru/IT-Helpdesk-Suite/edit/main/docs/flows.md)  
+  ├─ [Power Automate (SLA, notifications)](https://github.com/jonathanduru/IT-Helpdesk-Suite/blob/main/docs/flows.md)  
   ├─ Power BI Reports (Tickets, Assets) 🚧 In Progress  
   └─ [Dataverse to Azure SQL Backup Script](https://github.com/jonathanduru/dataverse-backup-script)
 
