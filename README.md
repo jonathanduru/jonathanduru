@@ -10,7 +10,7 @@
   ├─ Canvas App (Employee Portal)   
   ├─ [Model-Driven App (Technician Panel)](https://github.com/jonathanduru/IT-Helpdesk-Suite/blob/main/docs/apps.md)  
   ├─ [Power Automate (SLA, notifications)](https://github.com/jonathanduru/IT-Helpdesk-Suite/blob/main/docs/flows.md)  
-  ├─ Power BI Reports (Tickets, Assets) 🚧 In Progress  
+  ├─ Power BI Reports (Tickets, Assets)  
   └─ [Dataverse to Azure SQL Backup Script](https://github.com/jonathanduru/dataverse-backup-script)
 
 - **Dataverse to Azure SQL Backup Script**  
@@ -25,7 +25,7 @@
 
 ## Skills & Tools
 
-- **Languages:** Python, SQL, JavaScript  
+- **Languages:** Python, SQL, Power FX, DAX  
 - **Cloud & Platforms:** Microsoft Azure, Power Platform, Dataverse  
 - **Automation:** Power Automate, Logic Apps  
 - **Visualization:** Power BI, Excel  
@@ -35,9 +35,9 @@
 
 ## Certifications *(In Progress or Completed)*
 
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-- Microsoft Certified: Power Platform Fundamentals (PL-900)
-- CompTIA Security+
+- Microsoft Certified: Azure Data Fundamentals DP-900 *(In Progress)*  
+- Microsoft Certified: Power Platform Fundamentals PL-900 *(In Progress)*  
+- CompTIA Security+ *(In Progress)*  
 
 ---
 
