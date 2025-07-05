@@ -13,6 +13,10 @@
   ├─ Power BI Reports (Tickets, Assets)  
   └─ [Dataverse to Azure SQL Backup Script](https://github.com/jonathanduru/dataverse-backup-script)
 
+- **Texas Smart Meter Energy Analysis (RPA + AI)**  
+  RPA pipeline using Power Automate Desktop, Python, and PowerShell to scrape energy data, convert to JSON, and generate AI energy insights
+  → **[View Project](https://github.com/jonathanduru/texas-smart-meter-scraper-pad)**
+
 - **Dataverse to Azure SQL Backup Script**  
   Automates Dataverse backups using Python, MSAL, and Web API  
   → **[View Project](https://github.com/jonathanduru/dataverse-backup-script)**
