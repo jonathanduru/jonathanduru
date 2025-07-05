@@ -13,6 +13,10 @@
   ├─ Power BI Reports (Tickets, Assets)  
   └─ [Dataverse to Azure SQL Backup Script](https://github.com/jonathanduru/dataverse-backup-script)
 
+- **PVA & n8n Chatbot with Vector Search**  
+  Teams chatbot using Power Virtual Agents, n8n workflows, and pgvector for AI-powered employee handbook Q&A<br>
+  → **[View Project](https://github.com/jonathanduru/PVA-HR-Chatbot)**
+
 - **Texas Smart Meter Energy Analysis (RPA + AI)**  
   Automates monthly Smart Meter Texas scraping and analysis using Power Automate, Python, PowerShell, and GPT<br>
   → **[View Project](https://github.com/jonathanduru/texas-smart-meter-scraper-pad)**
